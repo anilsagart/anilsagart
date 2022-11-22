@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MEAN stack Web App<br>👯 I’m looking to collaborate on REST based Web App<br>🌱 I’m currently exploring Conversational AI optimizing Sentiment Analysis Methodologies <br>💬 Ask me about web app development / chat bot development<br>⚡ Like every other creative engineer i am a professional at photography too.. you can catch me @lenzdrift in instagram
+🔭 I’m currently working on MEAN stack Web App<br>👯 I’m looking to collaborate on REST based Web App<br>🌱 I’m currently exploring Conversational AI and optimizing Sentiment Analysis Methodologies <br>💬 Ask me about web app development / chat bot development<br>⚡ Like every other creative engineer i am a professional at photography too.. you can catch me @lenzdrift in instagram
 
 
 ## 🌐 Socials:
